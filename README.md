@@ -94,6 +94,15 @@ To design an interactive dashboard that analyzes sales trends, customer behavior
 - Delivery performance shows an average delivery service rating of 2.96 out of 5.92, suggesting moderate customer satisfaction and a need to improve service         quality.
 - City-wise analysis indicates a relatively consistent distribution of brands and platforms across cities
 
+### **KEY INSIGHTS**
+- Electronics sells the most and earns the highest revenue.
+- Amazon and Flipkart handle most of the orders and sales.
+- A few top brands contribute more sales than others.
+- Some regular customers place more orders and generate higher revenue.
+- Online payment methods are used more than cash.
+- Most orders are delivered successfully with fewer cancellations.
+- Metro cities place more orders than non-metro cities.
+- Customer delivery ratings are average, showing scope for improvement.
 
 ### **FUTURE WORK**
 - Sales Forecasting  :  Apply time-series models to predict future sales and demand trends.
