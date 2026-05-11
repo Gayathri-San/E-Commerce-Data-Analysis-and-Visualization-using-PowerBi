@@ -12,7 +12,7 @@ To design an interactive dashboard that analyzes sales trends, customer behavior
 
 ### **DATASET**
 <p align="left">
-<img width="900" height="450" alt="tab" src="https://github.com/user-attachments/assets/5222dca7-278d-4f93-a37f-7bb3eba49649" />
+<img width="700" height="350" alt="tab" src="https://github.com/user-attachments/assets/5222dca7-278d-4f93-a37f-7bb3eba49649" />
 
 ### **TABLE**
 <p align="left">
